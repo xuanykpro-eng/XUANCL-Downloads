@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-22T05:56:26.2579204\u002B00:00",
+  "updatedAt": "2026-10-22T06:00:32.5543964\u002B00:00",
   "announcement": null,
   "announcements": [],
   "release": {
-    "version": "1.0.6",
-    "publishedAt": "2026-10-21T17:21:05.2084341\u002B00:00",
-    "body": "1.0.6\u66F4\u65B0",
-    "assetUrl": "https://github.com/xuanykpro-eng/XUANCL-Downloads/releases/download/v1.0.6/XUANCL-1.0.6.exe",
-    "assetSize": 88840462,
-    "assetName": "XUANCL-1.0.6.exe",
+    "version": "1.0.7",
+    "publishedAt": "2026-10-22T06:00:32.5542324\u002B00:00",
+    "body": "\u65B0\u7248\u672C\u4F18\u5316\u4E86\u6027\u80FD",
+    "assetUrl": "https://github.com/xuanykpro-eng/XUANCL-Downloads/releases/download/v1.0.7/XUANCL-1.0.7.exe",
+    "assetSize": 88935361,
+    "assetName": "XUANCL-1.0.7.exe",
     "mandatory": true,
-    "minimumVersion": "1.0.6",
-    "sha256": "1f4c3802404257647df7185d2152b0fcccef956ddeba271b9b2d7f11e0c94027"
+    "minimumVersion": "1.0.7",
+    "sha256": "ccb827e9396180d73d0b31e8595e9ad26c0c11a4b79e5f8acd20e158401ecd4d"
   }
 }
