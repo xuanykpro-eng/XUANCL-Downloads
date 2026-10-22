@@ -1,8 +1,24 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-22T05:55:53.2205788\u002B00:00",
-  "announcement": null,
-  "announcements": [],
+  "updatedAt": "2026-10-22T05:56:04.3831082\u002B00:00",
+  "announcement": {
+    "id": "fb70990e54d94a1e97d3ce8f4b6d8604",
+    "title": "\u6D4B\u8BD5",
+    "content": "\u6D4B\u8BD5",
+    "level": "important",
+    "publishedAt": "2026-10-22T05:56:04.3830280\u002B00:00",
+    "active": true
+  },
+  "announcements": [
+    {
+      "id": "fb70990e54d94a1e97d3ce8f4b6d8604",
+      "title": "\u6D4B\u8BD5",
+      "content": "\u6D4B\u8BD5",
+      "level": "important",
+      "publishedAt": "2026-10-22T05:56:04.3830280\u002B00:00",
+      "active": true
+    }
+  ],
   "release": {
     "version": "1.0.6",
     "publishedAt": "2026-10-21T17:21:05.2084341\u002B00:00",
