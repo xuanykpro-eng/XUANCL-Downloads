@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-26T09:59:24.9077875\u002B00:00",
+  "updatedAt": "2026-10-26T09:59:59.3820457\u002B00:00",
   "announcement": {
     "id": "d2e8b080444a4cd88a4f66139491abbe",
     "title": "\u6D4B\u8BD5",
     "content": "\u6D4B\u8BD5",
-    "level": "info",
-    "publishedAt": "2026-10-26T09:59:24.8472983\u002B00:00",
+    "level": "warning",
+    "publishedAt": "2026-10-26T09:59:59.3818504\u002B00:00",
     "active": true
   },
   "announcements": [
@@ -14,8 +14,8 @@
       "id": "d2e8b080444a4cd88a4f66139491abbe",
       "title": "\u6D4B\u8BD5",
       "content": "\u6D4B\u8BD5",
-      "level": "info",
-      "publishedAt": "2026-10-26T09:59:24.8472983\u002B00:00",
+      "level": "warning",
+      "publishedAt": "2026-10-26T09:59:59.3818504\u002B00:00",
       "active": true
     }
   ],
