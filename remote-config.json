@@ -1,23 +1,15 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-26T10:02:04.0922213\u002B00:00",
+  "updatedAt": "2026-10-26T10:02:24.2981226\u002B00:00",
   "announcement": {
-    "id": "f44ce6cba25a42dab6ca430f3ecca8d1",
+    "id": "7d55ccd26b0644c3a962f04fa9eaf0d9",
     "title": "\u6D4B\u8BD5",
     "content": "\u6D4B\u8BD5",
-    "level": "warning",
-    "publishedAt": "2026-10-26T10:02:04.0921017\u002B00:00",
+    "level": "info",
+    "publishedAt": "2026-10-26T10:01:46.3888903\u002B00:00",
     "active": true
   },
   "announcements": [
-    {
-      "id": "f44ce6cba25a42dab6ca430f3ecca8d1",
-      "title": "\u6D4B\u8BD5",
-      "content": "\u6D4B\u8BD5",
-      "level": "warning",
-      "publishedAt": "2026-10-26T10:02:04.0921017\u002B00:00",
-      "active": true
-    },
     {
       "id": "7d55ccd26b0644c3a962f04fa9eaf0d9",
       "title": "\u6D4B\u8BD5",
